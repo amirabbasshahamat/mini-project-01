@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+.spyproject/
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+data/creditcard.csv
